@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="description" content="login Form" >
 	<meta name="keywords"    content="login, username, passwordd, sessiontokens" >
-	<meta name="author"      content="Jay tr" />
+	<meta name="author"      content="Jay Tr" />
     <!-- Place the general style sheet before specific CSS so the specific overides the general formatting-->
 	<!-- <link rel="stylesheet" type="text/css" href="style/style.css" > -->
 
@@ -24,7 +24,7 @@
     <label for="password">Password:</label>
     <input type="password" name="password" required><br>
 
-    <input type="hidden" name="Jay" value="1234">
+    <input type="hidden" name="token" value="abc123">
     <input type="submit" value="login">
 </form>
 
