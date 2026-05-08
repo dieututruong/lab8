@@ -4,9 +4,6 @@
 
 	<title>Login form</title>
 	<meta charset="utf-8">
-	<meta name="description" content="login Form" >
-	<meta name="keywords"    content="login, username, passwordd, sessiontokens" >
-	<meta name="author"      content="Jay Tr" />
     <!-- Place the general style sheet before specific CSS so the specific overides the general formatting-->
 	<!-- <link rel="stylesheet" type="text/css" href="style/style.css" > -->
 
